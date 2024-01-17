@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Главная"
-  url: /
-  #- title: "Quick-Start Guide"
+  # - title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Обо мне"
     url: /about/
