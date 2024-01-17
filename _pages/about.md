@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Обо мне
+title: "Обо мне"
 permalink: /about/
 ---
 
