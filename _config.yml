@@ -298,6 +298,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
   # _posts
   - scope:
       path: ""
@@ -309,6 +310,7 @@ defaults:
       comments: true
       share: true
       related: true
+      
   # _portfolio
   - scope:
       path: ""
