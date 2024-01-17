@@ -1,6 +1,5 @@
 ---
 title: "Как увеличить размер файла импорта phpMyAdmin"
-classes: wide
 tags: 
   - phpMyAdmin
 ---
