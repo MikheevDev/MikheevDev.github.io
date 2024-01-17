@@ -115,7 +115,7 @@ author:
       url: "mailto:mikheevwebdesign@yandex.ru"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mddev.ru"
+      url: "https://mikheevdesign.ru"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mikheevdesign"
@@ -126,8 +126,8 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mikheevdev"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-       #url: "https://instagram.com/mikheevdesign"
+      icon: "fab fa-fw fa-vk"
+      url: "https://vk.com/mikheevdesign"
 
 # Site Footer
 footer:
