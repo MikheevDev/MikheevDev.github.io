@@ -1,6 +1,5 @@
 ---
 title: "Достигнут временной лимит выполнения скрипта в PHPMyAdmin"
-classes: wide
 tags: 
   - phpMyAdmin
 ---
