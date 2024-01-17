@@ -1,6 +1,5 @@
 ---
 title: " Сайт на GitHub Pages"
-classes: wide
 tags: 
   - Jekyll
   - GitHub
