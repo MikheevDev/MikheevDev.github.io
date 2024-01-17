@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Услуги веб-разработчика
 permalink: services
 ---
