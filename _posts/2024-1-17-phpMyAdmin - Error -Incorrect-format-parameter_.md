@@ -1,7 +1,11 @@
 ---
-layout: post
-title: Как увеличить размер файла импорта phpMyAdmin
+title: "Как увеличить размер файла импорта phpMyAdmin"
+classes: wide
+excerpt: "A page with `classes: wide` set to expand the main content's width."
+tags: 
+  - phpMyAdmin
 ---
+
 Вы пытаетесь увеличить размер файла базы данных для импорта в phpMyAdmin и не получается? Это то, с чем сталкиваются
 многие люди, перенося свой веб-сайт на другой сервер. Есть простой способ решить эту проблему. 
 В этой статье вы узнаете,  как увеличить максимальный размер загрузки в phpMyAdmin на вашем сервере(shown below).
