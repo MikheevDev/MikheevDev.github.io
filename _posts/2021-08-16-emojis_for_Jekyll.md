@@ -2,6 +2,10 @@
 title: Смайлики для Jekyll
 category:
  - Jekyll
+toc: true
+toc_label: "Содержание"
+toc_icon: "file-alt"
+toc_sticky: true
 ---
 
 В этой шпаргалке перечислены некоторые доступные и работающие в настоящее время смайлы , которые можно использовать в
@@ -26,7 +30,7 @@ bundle update
 ```
 #### Доступные смайлы
 
-Face Smiling
+### Face Smiling
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -44,7 +48,7 @@ Face Smiling
 | 	:upside_down_face:   | 	`:upside_down_face:` |
 |   :blush:    |  `:blush:`   |
 
-Face Affection
+### Face Affection
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -55,7 +59,7 @@ Face Affection
 | 	:kissing_heart:   | 	`:kissing_heart:` |
 |   :kissing_smiling_eyes:    |  `:kissing_smiling_eyes:`   |
 
-Face Tongue
+### Face Tongue
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -65,21 +69,21 @@ Face Tongue
 |   :stuck_out_tongue:    |  `:stuck_out_tongue:`   |
 | 	:money_mouth_face:   | 	`:money_mouth_face:` |
 
-Face Hand
+### Face Hand
 
 |     emoji     |     code      |
 | ------------- | ------------- |
 | 	:hugs:  | 	`:hugs:` |
 |   :thinking:    |  `:thinking:`   |
 
-Face Glasses
+### Face Glasses
 
 |     emoji     |     code      |
 | ------------- | ------------- |
 | 	:sunglasses:  | 	`:sunglasses:` |
 |   :nerd_face:    |  `:nerd_face:`   |
 
-Face Concerned
+### Face Concerned
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -89,7 +93,7 @@ Face Concerned
 |   :flushed:    |  `:flushed:`   |
 | 	:disappointed:   | 	`:disappointed:` |
 
-Face Negative
+### Face Negative
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -98,7 +102,7 @@ Face Negative
 | 	:skull:   | 	`:skull:` |
 |   :skull_and_crossbones:    |  `:skull_and_crossbones:`   |
 
-Face Costume
+### Face Costume
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -107,7 +111,7 @@ Face Costume
 | 	:robot:   | 	`:robot:` |
 |   :ghost:    |  `:ghost:`   |
 
-Monkey Face
+### Monkey Face
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -117,7 +121,7 @@ Monkey Face
 |   :hear_no_evil:    |  `:hear_no_evil:`   |
 | 		:monkey_face:   | 	`:monkey_face:` |
 
-Emotion
+### Emotion
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -127,7 +131,7 @@ Emotion
 |   :bomb:    |  `:bomb:`   |
 | 		:cupid:   | 	`:cupid:` |
 
-Hand Fingers
+### Hand Fingers
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -137,7 +141,7 @@ Hand Fingers
 |   :v:    |  `:v:`   |
 | 		:+1:   | 	`:+1:` |
 
-Phone
+### Phone
 
 |     emoji     |     code      |
 | ------------- | ------------- |
@@ -145,7 +149,7 @@ Phone
 |   :telephone_receiver:    |  `:telephone_receiver:`   |
 | 	:calling:   | 	`:calling:` |
 
-Office
+### Office
 
 |     emoji     |     code      |
 | ------------- | ------------- |
