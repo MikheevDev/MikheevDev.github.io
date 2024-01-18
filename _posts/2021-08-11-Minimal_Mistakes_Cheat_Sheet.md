@@ -178,10 +178,10 @@ Some custom styled caption with a [_link_](#via-markdown).
   <figcaption>Gallery with a three image per row grid.</figcaption>
 </figure>
 
-
+<div class="notice--info">
 **К сведению** Подписи к рисункам по центру : добавьте строку text-align: center;в figcaption 
-раздел, _base.css если вы предпочитаете подписи к рисункам по центру.{: .notice–info}
-
+раздел, _base.css если вы предпочитаете подписи к рисункам по центру.
+ </div>
 
 Заголовок и тизерные изображения
 ```
@@ -244,18 +244,22 @@ header:
 | provider  | 	Хостинг-провайдер видео ( youtube, vimeoили google-drive)  |
 
 Например, видео YouTube с URL-адресом https://www.youtube.com/watch?v=XsxDH4HcOWA(короткий URL-адрес:) https://youtu.be/XsxDH4HcOWAможно встроить с помощью:
+
 ```html
 {% include video id="XsxDH4HcOWA" provider="youtube" %}
 ```
 видео Vimeo , например, https://vimeo.com/212731897через:
+
 ```html
 {% include video id="212731897" provider="vimeo" %}
 ```
 и видео с Google Диска , например,
+
 ```html
 https://drive.google.com/file/d/1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO/preview
 ```
 с помощью:
+
 ```html
 {% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
 ```
@@ -453,7 +457,7 @@ Definition term 3
 </html>
 </div>
 ```
-</div
+</div>
 
 
 ### Кнопки
