@@ -115,7 +115,7 @@ Monkey Face
 |   :speak_no_evil:    |  `:speak_no_evil:`   |
 | 	:monkey:   | 	`:monkey:` |
 |   :hear_no_evil:    |  `:hear_no_evil:`   |
-| 		:monkey_face:   | 	`	:monkey_face:` |
+| 		:monkey_face:   | 	`:monkey_face:` |
 
 Emotion
 
@@ -125,7 +125,7 @@ Emotion
 |   :zzz:    |  `:zzz:`   |
 | 	:sweat_drops:   | 	`:sweat_drops:` |
 |   :bomb:    |  `:bomb:`   |
-| 		:cupid:   | 	`	:cupid:` |
+| 		:cupid:   | 	`:cupid:` |
 
 Hand Fingers
 
@@ -135,7 +135,7 @@ Hand Fingers
 |   :ok_hand:    |  `:ok_hand:`   |
 | 	:metal:   | 	`:metal:` |
 |   :v:    |  `:v:`   |
-| 		:+1:   | 	`	:+1:` |
+| 		:+1:   | 	`:+1:` |
 
 Phone
 
