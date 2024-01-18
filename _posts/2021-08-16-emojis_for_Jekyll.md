@@ -28,6 +28,18 @@ bundle update
 
 Face Smiling
 
-emoji	| code| emoji | code
-----------|------------|----------|----------
-:grinning: `:grinning:`  :smiley:  `:smiley:`    
+|     emoji     |     code      |
+| ------------- | ------------- |
+| 	:grinning:   | 	`:grinning:` |
+|   :smiley:    |  `:smiley:`   |
+| 	:smile:   | 	`:smile:` |
+|   :laughing:    |  `:laughing:`   |
+| 	:rofl:   | 	`:rofl:` |
+|   :slightly_smiling_face:    |  `:slightly_smiling_face:`   |
+| 	:wink:   | 	`:wink:` |
+|   :innocent:    |  `:innocent:`   |
+| 	:grin:   | 	`:grin:` |
+|   :joy:    |  `:joy:`   |
+|   :sweat_smile:    |  `:sweat_smile:`   |
+| 	:upside_down_face:   | 	`:upside_down_face:` |
+|   :blush:    |  `:blush:`   |
