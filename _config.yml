@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Михеев Сергей"
-  avatar           : "/assets/images/md.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Я частный **web** разработчик."
+  avatar           : "/assets/images/i'm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Я частный **web**-разработчик."
   location         : "Россия, Новосибирск"
   email            :
   links:
