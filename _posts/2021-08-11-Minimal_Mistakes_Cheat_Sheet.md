@@ -178,8 +178,8 @@ Some custom styled caption with a [_link_](#via-markdown).
 
 
 **К сведению** Подписи к рисункам по центру : добавьте строку text-align: center;в figcaption 
-раздел, _base.css если вы предпочитаете подписи к рисункам по центру.
-{: .notice–info}
+раздел, _base.css если вы предпочитаете подписи к рисункам по центру.{: .notice–info}
+
 
 Заголовок и тизерные изображения
 ```
