@@ -2,7 +2,7 @@
 title: "Ginger Gulp Identity"
 excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/funprog.jpg
+  image: /assets/images/programmer.jpg
   teaser: assets/images/unsplash-gallery-image-3-th.jpg
 sidebar:
   - title: "Role"
