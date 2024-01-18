@@ -2,6 +2,9 @@
 title: "Minimal Mistakes Cheat Sheet"
 category:
  - Jekyll
+toc: true
+toc_label: "Содержание"
+toc_icon: "cog"
 header:
   teaser: /assets/images/prev.jpg
   header: /assets/images/prev.jpg
@@ -242,19 +245,19 @@ header:
 | provider  | 	Хостинг-провайдер видео ( youtube, vimeoили google-drive)  |
 
 Например, видео YouTube с URL-адресом https://www.youtube.com/watch?v=XsxDH4HcOWA(короткий URL-адрес:) https://youtu.be/XsxDH4HcOWAможно встроить с помощью:
-```
+```html
 {% include video id="XsxDH4HcOWA" provider="youtube" %}
 ```
 видео Vimeo , например, https://vimeo.com/212731897через:
-```
+```html
 {% include video id="212731897" provider="vimeo" %}
 ```
 и видео с Google Диска , например,
-```
+```html
 https://drive.google.com/file/d/1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO/preview
 ```
 с помощью:
-```
+```html
 {% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
 ```
 Чтобы встроить видео в заголовок страницы, добавьте следующие команды в ее заголовок YAML:
@@ -438,7 +441,6 @@ Definition term 3
 <html>
   <body>Some body.<body>
 </html>
-```
 </div>
 ```
 
@@ -450,8 +452,10 @@ Definition term 3
 <html>
   <body>Some body.<body>
 </html>
-```
 </div>
+```
+</div
+
 
 ### Кнопки
 Добавьте кнопки с помощью тега kramdown{: .btn} или используйте HTML-код:
