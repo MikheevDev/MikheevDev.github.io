@@ -4,7 +4,8 @@ category:
  - Jekyll
 toc: true
 toc_label: "Содержание"
-toc_icon: "cog"
+toc_icon: "file-alt"
+toc_sticky: true
 header:
   teaser: /assets/images/prev.jpg
   og_image: /assets/images/prev.jpg
@@ -19,7 +20,7 @@ header:
 В теме используется kramdown, библиотека, написанная на Ruby, которая отображает Markdown для веб-сайтов Jekyll. 
 kramdown позволяет использовать блочные и встроенные атрибуты, что позволяет настраивать стили для стандартных команд 
 Markdown, например:
-```
+```ruby
 Right aligned text.
 {: .text-right}
 ```
@@ -31,7 +32,7 @@ Right aligned text.
 }
 ```
 Теперь этот класс можно применить через:
-```
+```ruby
 This text is rendered in green.
 {: .green}
 ```
@@ -39,7 +40,7 @@ This text is rendered in green.
 {: .green}
 
 Команды kramdown могут включать вызовы нескольких определений стилей CSS, например:
-```
+```ruby
 This text is rendered in green and bold.
 {: .green .bold}
 ```
@@ -68,7 +69,7 @@ last_modified_at:   YYYY-MM-DD HH:mm:S +0000
 ### Font Awesome
 
 Использование:
-```
+```html
 <i class="fab fa-researchgate" aria-hidden="true"></i>
 ```
 Вывод: <i class="fab fa-researchgate" aria-hidden="true"></i>
@@ -80,7 +81,7 @@ last_modified_at:   YYYY-MM-DD HH:mm:S +0000
 **Через Маркдаун**
 
 Вы можете добавить теги kramdown к команде включения изображения lign Markdown по умолчанию :
-```
+```ruby
 ![image-center](/assets/images/number0progammer.png){: .align-center}
 ![image-right](/assets/images/number0progammer.png){: .align-right}
 ![image-left](/assets/images/number0progammer.png){: .align-left} You can also place some text right after the image command, and it will nicely wrap around the image.
@@ -88,7 +89,7 @@ last_modified_at:   YYYY-MM-DD HH:mm:S +0000
 ![image-center](/assets/images/number0progammer.png){: .align-center}
 
 Вы можете дополнительно настроить стиль вашего изображения, например:
-```
+```ruby
 ![styled-image](/assets/images/number0progammer.png "This is some hover text"){: .align-center style="width: 5%;"}
 
 [![styled-image](/assets/images/number0progammer.png "This is some hover text"){: .align-center style="width: 10%;"}](/assets/images/number0progammer.png "Title shown in gallery view")
@@ -184,7 +185,7 @@ Some custom styled caption with a [_link_](#via-markdown).
  </div>
 
 Заголовок и тизерные изображения
-```
+```ruby
 ---
 title: "Title of my page"
 date: 2021-08-10
@@ -199,7 +200,7 @@ header:
 Основные изображения в RSS-каналах . Назначенное изображение og_image или teaser также служит тизером для постов в ваших RSS-каналах.
 
 Вы также можете определить изображения заголовка с наложением, так называемы HERO:
-```
+```ruby
 ---
 title: "Post with an overlay header image"
 date: 2021-08-10
@@ -215,7 +216,7 @@ tagline: "This is a custom tagline content which overrides the *default* page ex
 ---
 ```
 Вы даже можете определить наложение заголовка, просто залитое сплошным цветом :
-```
+```ruby
 ---
 title: "Layout: Header Overlay with Background Fill"
 header:
@@ -225,7 +226,7 @@ header:
 Добавление дополнительной настройки overlay_filter: o#регулирует непрозрачность наложенного изображения.
 Замените заполнитель o#любым значением непрозрачности от 0 до 1 (например, overlay_filter: 0.5) 
 или используйте еще более сложный параметр rgba(R#, G#, B#, o#)(например, overlay_filter: rgba(255, 0, 0, 0.25)).
-```
+```ruby
 ---
 title: "Post with an overlay header image and some overlay filter"
 date: 2021-08-10
@@ -245,12 +246,12 @@ header:
 
 Например, видео YouTube с URL-адресом https://www.youtube.com/watch?v=XsxDH4HcOWA(короткий URL-адрес:) https://youtu.be/XsxDH4HcOWAможно встроить с помощью:
 
-```html
+```ruby
 {% include video id="XsxDH4HcOWA" provider="youtube" %}
 ```
 видео Vimeo , например, https://vimeo.com/212731897через:
 
-```html
+```ruby
 {% include video id="212731897" provider="vimeo" %}
 ```
 и видео с Google Диска , например,
@@ -260,7 +261,7 @@ https://drive.google.com/file/d/1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO/preview
 ```
 с помощью:
 
-```html
+```ruby
 {% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
 ```
 Чтобы встроить видео в заголовок страницы, добавьте следующие команды в ее заголовок YAML:
@@ -276,7 +277,7 @@ header:
 ### Выравнивание и стилизация текста
 Помимо команд выравнивания текста Markdown по умолчанию , вы также можете использовать следующие теги kramdown :
 
-```
+```ruby
 Left aligned test.
 {: style="text-align: left;"}  
 
@@ -471,7 +472,7 @@ Definition term 3
 
 Включите оглавление, добавив следующие настройки во вступительную часть YAML вашей страницы:
 
-```
+```ruby
 ---
 toc: true
 toc_label: "Unique Title" # default: Content
