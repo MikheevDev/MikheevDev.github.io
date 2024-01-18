@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Михеев Сергей"
   avatar           : "/assets/images/md.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Я частный **web** разработчик. Занимаюсь разработкой сайтов с 2016 года. С 2019 года полностью работаю во фрилансе. Буду рад интересным проектам и задачам."
+  bio              : "Я частный **web** разработчик."
   location         : "Россия, Новосибирск"
   email            :
   links:
