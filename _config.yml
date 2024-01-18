@@ -106,16 +106,16 @@ analytics:
 author:
   name             : "Михеев Сергей"
   avatar           : "/assets/images/mikheevsergey.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Я частный **web**-разработчик."
+  bio              : "**Web**-разработчик."
   location         : "Россия, Новосибирск"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mikheevwebdesign@yandex.ru"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://mikheevdesign.ru"
+    - label: "+7(960)799-76-34"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:89607997634"
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp"
       url: "whatsapp://send?abid=https://wa.me/89607997634&text=Hi"
