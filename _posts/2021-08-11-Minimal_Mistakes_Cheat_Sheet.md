@@ -176,10 +176,10 @@ Some custom styled caption with a [_link_](#via-markdown).
   <figcaption>Gallery with a three image per row grid.</figcaption>
 </figure>
 
-{% capture notice-3 %}
+
 **К сведению** Подписи к рисункам по центру : добавьте строку text-align: center;в figcaption 
 раздел, _base.css если вы предпочитаете подписи к рисункам по центру.
-{% endcapture %}
+{: .notice–info}
 
 Заголовок и тизерные изображения
 ```
