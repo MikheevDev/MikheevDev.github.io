@@ -7,7 +7,6 @@ toc_label: "Содержание"
 toc_icon: "cog"
 header:
   teaser: /assets/images/prev.jpg
-  header: /assets/images/prev.jpg
   og_image: /assets/images/prev.jpg
 ---
 
