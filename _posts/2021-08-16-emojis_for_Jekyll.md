@@ -157,5 +157,21 @@ bundle update
 |   :pushpin:    |  `:pushpin:`   |
 | 	:paperclip:   | 	`:paperclip:` |
 
+### Mail
+
+|     emoji     |     code      |
+| ------------- | ------------- |
+| 	:mailbox_with_mail:  | 	`:mailbox_with_mail:` |
+|   :incoming_envelope:    |  `:incoming_envelope:`   |
+| 	:incoming_envelope:   | 	`:incoming_envelope:` |
+
+### Other Object
+
+|     emoji     |     code      |
+| ------------- | ------------- |
+| 	:smoking:  | 	`:smoking:` |
+|   :moyai:    |  `:moyai:`   |
+| 		:coffin:   | 	`:coffin:` |
+
 Этот небольшой список я буду дополнять по мере надобности.
 Если вам была полезна эта запись я буду только рад :smile:, если есть вопросы, задавайте их в комментариях. :wave:
