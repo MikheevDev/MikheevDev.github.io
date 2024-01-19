@@ -27,13 +27,13 @@ GitHub Pages — это функция GitHub, которая позволяет
 
 Теперь, когда вы создали общедоступный репозиторий на GitHub, вам нужно будет клонировать его на свой локальный компьютер. Для этого просто откройте терминал на своем компьютере и выполните следующую команду (в любом каталоге/папке, который вы предпочитаете):
 
-```bush
+```
 git clone https://github.com/username/username.github.io
 ```
 
 Опять же, обязательно замените usernameссылки на свое имя пользователя GitHub. Обратите внимание, что при клонировании репозитория вы получите следующее предупреждающее сообщение.
 
-```bush
+```
 Cloning into 'gmyrianthous.github.io'...
 warning: You appear to have cloned an empty repository.
 ```
@@ -43,14 +43,14 @@ warning: You appear to have cloned an empty repository.
 
 Теперь перейдите в недавно клонированный репозиторий и создайте index.htmlфайл.
 
-```bush
+```
 $ cd <username>.github.io
 $ touch index.html
 $ echo "Hello, world! This is my personal page hosted on GitHub pages." > index.html
 ```
 И давайте еще раз проверим, что контент, который мы только что добавили в index.htmlфайл, действительно существует:
 
-```bush
+```
 $ cat index.html
 Hello, world! This is my personal page hosted on GitHub pages.
 ```
@@ -59,7 +59,7 @@ Hello, world! This is my personal page hosted on GitHub pages.
 
 Теперь, когда мы создали индексный файл, который должен быть представлен на веб-сайте, нам нужно создать коммит и отправить его на удаленный хост. Для этого давайте выполним следующие команды.
 
-```bush
+```
 $ git add index.html
 $ git commit -m "Add index.html file"
 $ git push -u origin main
