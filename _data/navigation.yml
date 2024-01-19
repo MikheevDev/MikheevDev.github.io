@@ -7,7 +7,7 @@ main:
   - title: "Услуги"
     url: /services/
   - title: "Блог"
-    url: /post-archive-feature-rows/
+    url: /blog/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
