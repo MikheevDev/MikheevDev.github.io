@@ -16,6 +16,6 @@ excerpt: Я - частный веб разрабочик, с опытом раз
 
 ### Контактная информация
 
-E-mail: [mikheevwebdesign@yandex.ru](mailto:email@domain.com)
+:mailbox_with_mail: E-mail: [mikheevwebdesign@yandex.ru](mailto:email@domain.com)
 
-Телефон: [+7(960)799-76-34](tel:89607997634)
+:phone: Телефон: [+7(960)799-76-34](tel:89607997634)
