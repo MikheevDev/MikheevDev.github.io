@@ -18,3 +18,5 @@ services:
     children:
       - title: "Продвижение сайтов"
         url: /website-promotion/
+      - title: "Сопровождение сайтов"
+        url: /website-maintenance/
