@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "Услуги"
     url: /services/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Блог"
+    url: /post-archive-feature-rows/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
