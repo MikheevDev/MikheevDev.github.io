@@ -2,10 +2,9 @@
 layout: single
 title: "Услуги веб-разработчика"
 permalink: /services/
-toc: true
-toc_label: "Содержание"
-toc_icon: "cog"
-toc_sticky: true
+docs:
+  sidebar:
+  nav: "_pages"
 excerpt: Если вы хотите создать новый проект или вам нужна поддержка существующего, то пишите, буду рад ответить на любые вопросы.
 ---
 
