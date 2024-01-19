@@ -277,7 +277,7 @@ URL-адреса в ссылки даже без скобок. Если вы х�
 ```
 ![my_img](/assets/images/mikheevsergey.jpg)(https://vk.com/mdtattoostudio)
 ```
-![my_img](/assets/images/mikheevsergey.jpg)(https://vk.com/mdtattoostudio)
+![my_img]/assets/images/mikheevsergey.jpg (https://vk.com/mdtattoostudio)[https://vk.com/mdtattoostudio]
 
 Прикрепите подпись к изображению:
 ```
@@ -327,7 +327,7 @@ Click on this  [link](#my-headline) to jump to "My headline".
 |  row 2       |      data 2   |  *property 2*        |  
 
 
-<div class="notice–-success">
+<div class="notice-success">
 Ширина ячеек : хотя ширина ячеек может различаться в вашем документе 
 Markdown, они будут автоматически отображаться с соответствующим интервалом между ячейками.
 </div>
@@ -444,7 +444,7 @@ This [?term1] has a glossary entry, as well as this this [?term2].
 [?term2]: Definition of term 2.
 
 
-<div class="notice-–warning">
+<div class="notice-warning">
 Примечание.Функция глоссария может работать не во всех процессорах Markdown.
 </div>
 
@@ -485,6 +485,7 @@ Lorem ipsum
 <div class="notice--info">
 Примечание. Эта <cite>команда может работать не для каждого процессора Markdown.
 </cite>
+</div>
 
 
 ### Экранирование
@@ -528,6 +529,7 @@ plt.plot(np.arange(5), np.arange(5))
 '''
 </details>
 ```
+
 This is some visible text.
 <details>
 <summary>Toggle hidden text</summary>
@@ -543,6 +545,7 @@ import numpy as np
 plt.plot(np.arange(5), np.arange(5))
 ```
 </details>
+
 
 <div class="notice--info">
 Примечание. Поместите пустую строку после закрывающего
