@@ -190,7 +190,7 @@ This is another line...
 
 * entry 3
 
-  ![my_img]https://mddev.ru/assets/images/g1.png){: .align-center}
+  ![my_img]https://mddev.ru/assets/images/g1.png
 ```
 * entry 1
 
@@ -202,7 +202,7 @@ This is another line...
 
 * entry 3
 
-  ![my_img]https://mddev.ru/assets/images/g1.png){: .align-center}
+  ![my_img]https://mddev.ru/assets/images/g1.png
 
 ### Списки задач
 ```
@@ -269,15 +269,15 @@ URL-адреса в ссылки даже без скобок. Если вы х�
 
 Ссылка на изображение с альтернативным текстом:
 ```
-![my_img](/assets/images/prev.jpg) "I'm")
+![my_img](/assets/images/mikheevsergey.jpg) "I'm")
 ```
-![my_img](/assets/images/prev.jpg) "I'm")
+![my_img](/assets/images/mikheevsergey.jpg) "I'm")
 
 Ссылка на изображение, которое ссылается на внешний адрес:
 ```
-![my_img](/assets/images/prev.jpg)](https://vk.com/mdtattoostudio)
+![my_img](/assets/images/mikheevsergey.jpg)(https://vk.com/mdtattoostudio)
 ```
-![my_img](/assets/images/prev.jpg)](https://vk.com/mdtattoostudio)
+![my_img](/assets/images/mikheevsergey.jpg)(https://vk.com/mdtattoostudio)
 
 Прикрепите подпись к изображению:
 ```
@@ -320,10 +320,12 @@ Click on this  [link](#my-headline) to jump to "My headline".
 |  row 1       |      data 1   | **propety 1**       |  
 |  row 2       |      data 2   |  *property 2*        |
 ```
+
 | First Column | Second Column | Third Column         |  
 | :----------- | :-----------: | -------------------: |  
 |  row 1       |      data 1   | **propety 1**       |  
 |  row 2       |      data 2   |  *property 2*        |  
+
 
 <div class="notice–-success">
 Ширина ячеек : хотя ширина ячеек может различаться в вашем документе 
@@ -387,7 +389,6 @@ print(a+a)
 '''
 ```
 ```python
-python
 import numpy as np
 a=np.arange(5)
 print(a+a)
@@ -401,17 +402,21 @@ Let's simply cite a book[][#doebook]. There is also a follow-up edition of that 
 [#doebook]: Jane Doe, _My life as a placeholder_. Doe Press, 1898.
 [#doebook2]: Jane Doe, _My life as a placeholder, Part 2_. Doe Press, 1902.
 ```
+
 Let's cite a book[p. 99][#doebook] with some additional reference info.
 Let's simply cite a book[][#doebook]. There is also a follow-up edition of that book[][#doebook2].
 
+
 [#doebook]: Jane Doe, _My life as a placeholder_. Doe Press, 1898.
 [#doebook2]: Jane Doe, _My life as a placeholder, Part 2_. Doe Press, 1902.
+
 
 ### Сноски
 ```ruby
 Let's place a footnote here[^1].
 [^1]: Some explanation text at the end of your document.
 ```
+
 Let's place a footnote here[^1].
 [^1]: Some explanation text at the end of your document.
 
@@ -420,8 +425,10 @@ Let's place a footnote here[^1].
 Let's place a link to a _glossary term_[^glossary] here.
 [^glossary]:glossary: Glossary    Some explanation text at the end of your document to explain the _glossary term_.
 ```
+
 Let's place a link to a _glossary term_[^glossary] here.
 [^glossary]:glossary: Glossary    Some explanation text at the end of your document to explain the _glossary term_.
+
 
 Некоторые процессоры Markdown также принимают следующий синтаксис:
 ```
@@ -430,12 +437,16 @@ This [?term1] has a glossary entry, as well as this this [?term2].
 [?term1]: Definition of term 1.
 [?term2]: Definition of term 2.
 ```
+
 This [?term1] has a glossary entry, as well as this this [?term2].
 
 [?term1]: Definition of term 1.
 [?term2]: Definition of term 2.
 
-**Примечание**.Функция глоссария может работать не во всех процессорах Markdown.{: .notice–warning}
+
+<div class="notice-–warning">
+Примечание.Функция глоссария может работать не во всех процессорах Markdown.
+</div>
 
 ### Определения
 
@@ -471,7 +482,10 @@ Lorem ipsum
 > This is my first level quoting with a citation.
 <cite>Joan Doe</cite>
 
-**Примечание**. Эта <cite>команда может работать не для каждого процессора Markdown.{: .notice–info}
+<div class="notice--info">
+Примечание. Эта <cite>команда может работать не для каждого процессора Markdown.
+</cite>
+
 
 ### Экранирование
 Если вы хотите использовать знак, который по умолчанию интерпретируется вашим процессором Markdown как синтаксис 
@@ -479,7 +493,7 @@ Markdown, поместите `\` перед ним обратную косую �
 Следующие знаки зарезервированы в качестве разметки Markdown по умолчанию:
 
 ```
-\* \- \_ \(\) \. \! \{\} \[\] \# \` \\
+\* - _ () . ! {} [] # `\
 ```
 ### Переменные
 В некоторых процессорах Markdown вы можете определять 
@@ -522,12 +536,12 @@ This is some visible text.
 
 This is some hidden text.
 
-'''python
+```python
 # you can even use it for code folding:
 import matplotlib.pyplot as plt
 import numpy as np
 plt.plot(np.arange(5), np.arange(5))
-'''
+```
 </details>
 
 <div class="notice--info">
