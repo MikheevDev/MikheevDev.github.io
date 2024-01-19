@@ -20,3 +20,5 @@ services:
         url: /website-promotion/
       - title: "Сопровождение сайтов"
         url: /website-maintenance/
+      - title: "Разработка сайтов"
+        url: /website-development/
