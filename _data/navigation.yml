@@ -8,7 +8,15 @@ main:
     url: /portfolio/
   - title: "Услуги"
     url: /services/
+      children:
+      - title: "Продвижение сайтов"
+        url: /website-promotion/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+_pages:
+  children:
+      - title: "Продвижение сайтов"
+        url: /website-promotion/
