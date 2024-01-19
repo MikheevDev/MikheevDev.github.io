@@ -308,6 +308,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "services"
       
   # _portfolio
   - scope:
