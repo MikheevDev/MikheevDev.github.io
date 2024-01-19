@@ -190,7 +190,7 @@ This is another line...
 
 * entry 3
 
-  ![my_img]https://mddev.ru/assets/images/g1.png
+  ![my_img] assets/images/g1.png
 ```
 * entry 1
 
@@ -202,7 +202,7 @@ This is another line...
 
 * entry 3
 
-  ![my_img]https://mddev.ru/assets/images/g1.png
+  ![my_img] /assets/images/g1.png
 
 ### Списки задач
 ```
@@ -273,11 +273,6 @@ URL-адреса в ссылки даже без скобок. Если вы х�
 ```
 ![my_img](/assets/images/mikheevsergey.jpg) "I'm")
 
-Ссылка на изображение, которое ссылается на внешний адрес:
-```
-![my_img](/assets/images/mikheevsergey.jpg)(https://vk.com/mdtattoostudio)
-```
-![my_img]/assets/images/mikheevsergey.jpg (https://vk.com/mdtattoostudio)[https://vk.com/mdtattoostudio]
 
 Прикрепите подпись к изображению:
 ```
@@ -327,7 +322,7 @@ Click on this  [link](#my-headline) to jump to "My headline".
 |  row 2       |      data 2   |  *property 2*        |  
 
 
-<div class="notice-success">
+<div class="notice--info">
 Ширина ячеек : хотя ширина ячеек может различаться в вашем документе 
 Markdown, они будут автоматически отображаться с соответствующим интервалом между ячейками.
 </div>
@@ -444,7 +439,7 @@ This [?term1] has a glossary entry, as well as this this [?term2].
 [?term2]: Definition of term 2.
 
 
-<div class="notice-warning">
+<div class="notice--info">
 Примечание.Функция глоссария может работать не во всех процессорах Markdown.
 </div>
 
