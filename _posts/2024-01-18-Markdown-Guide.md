@@ -188,9 +188,6 @@ This is another line...
 
   > a quote
 
-* entry 3
-
-  ![my_img] assets/images/g1.png
 ```
 * entry 1
 
@@ -200,9 +197,6 @@ This is another line...
 
   > a quote
 
-* entry 3
-
-  ![my_img] /assets/images/g1.png
 
 ### Списки задач
 ```
