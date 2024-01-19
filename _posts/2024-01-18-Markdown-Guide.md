@@ -5,7 +5,7 @@ toc_label: "Содержание" # default: Content
 toc_icon: "file-alt"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true 
 tags:
- - ИИ
+ - Jekyll
 header:
   teaser: /assets/images/Markdown.jpeg
   header: /assets/images/Markdown.jpeg
