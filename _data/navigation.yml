@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Портфолио"
-    url: /portfolio/
   - title: "Обо мне"
     url: /about/
+  - title: "Блог"
+    url: /blog/
+  - title: "Портфолио"
+    url: /portfolio/
   - title: "Услуги"
     url: /services/
   # - title: "Sample Collections"
