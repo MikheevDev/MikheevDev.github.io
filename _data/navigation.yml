@@ -13,7 +13,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-_pages:
+services:
   children:
       - title: "Продвижение сайтов"
         url: /website-promotion/
