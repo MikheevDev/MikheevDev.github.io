@@ -2,9 +2,8 @@
 layout: single
 title: "Услуги веб-разработчика"
 permalink: /services/
-docs:
-  sidebar:
-  nav: "_pages"
+sidebar:
+  nav: "services"
 excerpt: Если вы хотите создать новый проект или вам нужна поддержка существующего, то пишите, буду рад ответить на любые вопросы.
 ---
 
