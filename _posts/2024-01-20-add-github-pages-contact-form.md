@@ -1,18 +1,19 @@
 ---
 title: "Добавление контактной формы на сайт Github Pages"
+classes: wide
 header:
-  image: /assets/images/github_pages_572846.jpg
+  teaser: /assets/images/github_pages_572846.jpg
+  image: /assets/images/jekyll-github.png
+  og_image: /assets/images/github_pages_572846.jpg
 category:
  - How To
 ---
 
 ## Что такое страницы Github?
 
-![image-right](/assets/images/github-pages-logo.png){: .align-right}
-
 Github , конечно, хорошо известен как хранилище исходного кода. Он также поддерживает Github Pages ,
 который представляет собой службу хостинга контента, уже находящегося в репозитории на Github. 
-Для общедоступных репозиториев и платных аккаунтов Github позволяет разместить собственный сайт через Github Pages. 
+Для общедоступных репозиториев и платных аккаунтов Github позволяет разместить собственный сайт через Github Pages. ![image-right](/assets/images/github-pages-logo.png){: .align-right}
 Страницы могут быть либо основаны на Jekyll, который используется по умолчанию, либо вы можете предоставить свой 
 собственный статический контент, добавив файл .nojekyll .
 
