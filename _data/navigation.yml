@@ -8,6 +8,8 @@ main:
     url: /portfolio/
   - title: "Услуги"
     url: /services/
+  - title: "Контакты"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
