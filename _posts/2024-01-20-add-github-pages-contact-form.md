@@ -30,7 +30,7 @@ Un-static Forms. Таким образом, вам не нужен сервер 
 
 Чтобы включить контактную форму на Github Pages, вы можете выполнить следующие простые шаги:
 
-Шаг 1. [Зарегистрируйте форму](https://forms.un-static.com/register-form)
+Шаг 1. Зарегистрируйте форму :point_right: https://forms.un-static.com/register-form
 
 Шаг 2. Возьмите содержимое ниже и поместите его в contact.html (или что-то подобное).
 
