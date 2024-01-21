@@ -5,7 +5,7 @@ title: "Разработка сайтов"
 permalink: /website-development/
 header:
   overlay_image: /assets/images/banner-min.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: linear-gradient(rgb(37 42 52), rgb(111 162 167))
   caption: "Разработка сайтов под ключ в Новосибирске от идеи до готового продукта. Заказать сайт у веб-разработчика. Для любого бизнеса! · Адекватная цена · Быстрый старт."
 sidebar:
   nav: "services"
