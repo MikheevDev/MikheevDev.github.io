@@ -1,5 +1,14 @@
 ---
 title: "Что такое Self в Ruby"
+---
+title: Смайлики для Jekyll
+category:
+ - Jekyll
+toc: true
+toc_label: "Содержание"
+toc_icon: "file-alt"
+toc_sticky: true
+---
 category:
  - Ruby
 ---
