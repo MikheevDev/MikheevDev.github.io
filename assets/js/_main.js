@@ -135,4 +135,3 @@ $(function() {
   });
 });
 
-$('.collapse').collapse()
