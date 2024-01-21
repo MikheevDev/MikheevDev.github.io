@@ -176,5 +176,16 @@ bundle update
 |   :moyai:    |  `:moyai:`   |
 | 		:coffin:   | 	`:coffin:` |
 
+### Hand Single Finger
+
+|     emoji     |     code      |
+| ------------- | ------------- |
+| 	:point_left:  | 	`:point_left:` |
+|   :point_up_2:    |  `:point_up_2:`   |
+| 		:point_down:   | 	`:point_down:` |
+| 	:point_right:  | 	`:point_right:` |
+|   	:fu:, :middle_finger:    |  `:fu:, :middle_finger:`   |
+| 		:point_up:   | 	`:point_up:` |
+
 Этот небольшой список я буду дополнять по мере надобности.
 Если вам была полезна эта запись я буду только рад :smile:, если есть вопросы, задавайте их в комментариях. :wave:
