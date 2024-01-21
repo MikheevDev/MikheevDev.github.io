@@ -1,5 +1,8 @@
 ---
 title: Смайлики для Jekyll
+header:
+ teaser: /assets/images/emoji.jpg
+ og_image: /assets/images/emoji.jpg
 category:
  - Jekyll
 toc: true
