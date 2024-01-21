@@ -1,5 +1,14 @@
 ---
 title: "Что такое скаффолдинг в Ruby On Rails?"
+---
+title: Смайлики для Jekyll
+category:
+ - Jekyll
+toc: true
+toc_label: "Содержание"
+toc_icon: "file-alt"
+toc_sticky: true
+---
 category:
  - Ruby
 tags:
