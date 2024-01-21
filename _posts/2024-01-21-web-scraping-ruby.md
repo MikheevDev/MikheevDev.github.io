@@ -1,6 +1,5 @@
 ---
 title: Парсинг веб-страниц с помощью Ruby
-classes: wide
 header:
   teaser: /assets/images/parse.jpg
   og_image: /assets/images/parse.jpg
