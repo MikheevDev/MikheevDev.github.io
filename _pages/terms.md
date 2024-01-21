@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Условия и Политика конфиденциальности"
-last_modified_at: 2017-10-20T12:42:38-04:00
+last_modified_at: 2024-01-20T12:42:38-04:00
 toc: true
 ---
 
