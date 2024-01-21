@@ -1,14 +1,14 @@
 ---
 layout: single
 classes: wide
-title: "Сопровождение сайтов"
-permalink: /website-maintenance/
 header:
   overlay_image: /assets/images/banner-min.jpg
-  overlay_filter: linear-gradient(rgb(37 42 52), rgb(0 173 181 / 42%))
+  overlay_filter: linear-gradient(rgb(37 42 52), rgb(111 162 167 / 64%))
+title: "Сопровождение сайтов"
+permalink: /website-maintenance/
 sidebar:
   nav: "services"
-excerpt: Я предлагаю большой комплекс услуг по сопровождению сайта.
+excerpt: Я предлагаю большой комплекс услуг по сопровождению сайта. Узнайте подробную информацию об услугах по телефону: ☎ +7 (960) 799-76-34.
 ---
 
 Подавляющему большинству интернет-ресурсов требуется помощь вебмастера по сопровождению веб-сайтов.
