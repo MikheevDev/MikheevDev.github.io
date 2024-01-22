@@ -1,5 +1,5 @@
 ---
-title: "Продвижение сайтов"
+title: "Продвижение сайтов 📈"
 classes: wide
 header:
   overlay_image: /assets/images/banner-min.jpg
