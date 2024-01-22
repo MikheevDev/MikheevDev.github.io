@@ -3,8 +3,8 @@ title: "Пошаговое руководство по созданию ваше
 category:
  - Ruby
 header: 
-  teaser: /assets/images/rails.png
-  og_image: /assets/images/rails.png
+  teaser: /assets/images/rails-min.png
+  og_image: /assets/images/rails-min.png
 toc: true
 toc_label: "Содержание"
 toc_icon: "file-alt"
