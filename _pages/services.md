@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Услуги веб-разработчика"
+title: "Услуги веб-разработчика 🌐"
 permalink: /services/
 header:
   overlay_image: /assets/images/programming.jpg
