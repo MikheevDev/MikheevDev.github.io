@@ -121,7 +121,7 @@ author:
       url: "whatsapp://send?abid=https://wa.me/89607997634&text=Hi"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      url: "https://telegram.me/mikheevdesign"
+      url: "https://telegram.me/mikheevdev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mikheevdev"
