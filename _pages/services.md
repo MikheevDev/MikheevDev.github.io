@@ -4,7 +4,7 @@ classes: wide
 title: "Услуги веб-разработчика 🌐"
 permalink: /services/
 header:
-  overlay_image: /assets/images/programming.jpg
+  overlay_image: /assets/images/m.jpg
   overlay_filter: linear-gradient(rgb(37 42 52), rgb(111 162 167 / 64%))
 sidebar:
   nav: "services"
