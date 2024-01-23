@@ -1,10 +1,10 @@
 ---
 layout: single
 classes: wide
-title: "Услуги веб-разработчика 🌐"
+title: "Услуги веб-разработчика"
 permalink: /services/
 header:
-  overlay_image: /assets/images/m.jpg
+  overlay_image: /assets/images/programming.jpg
   overlay_filter: linear-gradient(rgb(37 42 52), rgba(111, 162, 167, 0.35))
 sidebar:
   nav: "services"
