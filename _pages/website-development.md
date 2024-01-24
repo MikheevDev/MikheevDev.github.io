@@ -4,8 +4,8 @@ classes: wide
 title: "Разработка сайтов 💻"
 permalink: /website-development/
 header:
-  overlay_image: /assets/images/banner-min.jpg
-  overlay_filter: linear-gradient(rgb(37 42 52), rgb(111 162 167 / 64%))
+  overlay_image: /assets/images/web-development-min.jpg
+  overlay_filter: linear-gradient(rgb(37 42 52), rgba(22, 42, 53, 0.64))
 sidebar:
   nav: "services"
 excerpt: Разработка сайтов под ключ от идеи до готового продукта. Заказать сайт у веб-разработчика. Для любого бизнеса! · Адекватная цена · Быстрый старт.
