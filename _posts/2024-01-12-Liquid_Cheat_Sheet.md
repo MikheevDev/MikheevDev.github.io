@@ -51,4 +51,9 @@ Liquid — это язык шаблонов с открытым исходным
 ```
 ### Переменные
 
-определить переменную `{% assign my_variable = 5 %}`
+- определить переменную `{% assign my_variable = 5 %}`
+- определение переменной с некоторыми дополнительными фильтрами `{% assign my_variable = site.my_collection | map: 'tags' | join: ',' | split: ',' | uniq %}`
+- выводит переменную или объект на вашей странице	 `{{ my_variable }}`
+- захватывает вложенную строку (которая также может быть объектом Liquid) и присваивает ее переменной (хранящейся как строка) `{% capture my_variable %}Some text{%endcapture%}My variable: {{ my_variable }}.> My variable: Some text`
+
+
