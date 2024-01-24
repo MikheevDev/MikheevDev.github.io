@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Разработка сайтов 💻"
+title: "Разработка сайтов"
 permalink: /website-development/
 header:
   overlay_image: /assets/images/web-development-min.jpg
