@@ -1,9 +1,9 @@
 ---
-title: "Продвижение сайтов 📈"
+title: "Продвижение сайтов"
 classes: wide
 header:
-  overlay_image: /assets/images/banner-min.jpg
-  overlay_filter: linear-gradient(rgb(37 42 52), rgb(111 162 167 / 64%))
+  overlay_image: /assets/images/web-development-min.jpg
+  overlay_filter: linear-gradient(rgb(37 42 52), rgba(22, 42, 53, 0.64))
 permalink: /website-promotion/
 excerpt: Если вас интересует эффективное продвижение сайтов – звоните по телефону ☎ +7 (960) 799-76-34 и я проконсультирую по всем вопросам.
 ---
