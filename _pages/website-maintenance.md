@@ -2,9 +2,9 @@
 layout: single
 classes: wide
 header:
-  overlay_image: /assets/images/banner-min.jpg
-  overlay_filter: linear-gradient(rgb(37 42 52), rgb(111 162 167 / 64%))
-title: "Сопровождение сайтов 🪛"
+  overlay_image: /assets/images/web-development-min.jpg
+  overlay_filter: linear-gradient(rgb(37 42 52), rgba(22, 42, 53, 0.64))
+title: "Сопровождение сайтов"
 permalink: /website-maintenance/
 sidebar:
   nav: "services"
