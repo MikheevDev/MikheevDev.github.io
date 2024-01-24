@@ -4,8 +4,8 @@ classes: wide
 title: "Услуги веб-разработчика"
 permalink: /services/
 header:
-  overlay_image: /assets/images/programming.jpg
-  overlay_filter: linear-gradient(rgb(37 42 52), rgba(111, 162, 167, 0.35))
+  overlay_image: /assets/images/web-development-min.jpg
+  overlay_filter: linear-gradient(rgb(37 42 52), rgba(22, 42, 53, 0.64))
 sidebar:
   nav: "services"
 excerpt: Если вы хотите создать новый проект или вам нужна поддержка существующего, обращайтесь по номеру телефона ☎ +7 (960) 799-76-34., буду рад ответить на любые вопросы.
