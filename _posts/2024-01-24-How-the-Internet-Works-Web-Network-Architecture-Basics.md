@@ -1,5 +1,9 @@
 ---
 title: "Как работает интернет: основы архитектуры веб-сетей"
+toc: true
+toc_label: "Содержание"
+toc_icon: "file-alt"
+toc_sticky: true
 tags:
  - Web Architecture
 ---
